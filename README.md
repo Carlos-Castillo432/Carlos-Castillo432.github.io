@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="css/css.css">
 </head>
 <body>
-
+ 
 	<header>
 		<div class="logo">
 			<img src="img/logo.png" alt="Tierra & Lava">
